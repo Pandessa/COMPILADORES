@@ -1,0 +1,12 @@
+int main()
+{
+	int a = 1;
+	for(i = 0; i < 10; i++)
+	{
+		show(a);
+	};
+	
+	a = 11;
+
+	show(a);
+}

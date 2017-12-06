@@ -1,0 +1,13 @@
+int main()
+{
+	i = 0.0;
+
+	do
+	{	
+		i = 1.1;
+		show(i);
+
+	} while(1 < 4);
+
+	show(i);
+}
